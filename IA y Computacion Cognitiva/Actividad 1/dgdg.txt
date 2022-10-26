@@ -1,0 +1,11 @@
+inmobilia.com
+
+https://pixabay.com/
+https://www.dialogflow.com
+https://cloud.google.com/terms?hl=es
+https://cloud.google.com/sql
+
+DialogFlow. (2021, 1 enero). What is DialogFlow. (s. f.). https://www.dialogflow.com
+Google Cloud Plataform. (s. f.). Cloud SQL: for PostgreSQL, MySQL & SQL Server | Cloud SQL: Relational Database Service |. Google Cloud. https://cloud.google.com/sql
+
+Condiciones del Servicio de Google Cloud Platform | Google Cloud Platform Terms. (s. f.). Google Cloud. https://cloud.google.com/terms?hl=es

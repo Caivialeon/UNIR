@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="PYTHON_MODULE" version="4">
+  <component name="NewModuleRootManager">
+    <content url="file://$MODULE_DIR$" />
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module" module-name="Condicionales" />
+    <orderEntry type="module" module-name="Colecciones" />
+    <orderEntry type="module" module-name="Bucles" />
+    <orderEntry type="module" module-name="Ejercicios_Python" />
+    <orderEntry type="module" module-name="POO" />
+  </component>
+</module>
